@@ -13,13 +13,13 @@ Before analysis, data consistency is ensured by standardizing the Item_Fat_Conte
 
 The script calculates several core metrics to provide a multi-faceted view of the business.
 # General KPIs
-Total Sales (in Millions): The overall revenue generated.
-Average Sales: The average value per transaction.
-Total Item Count: The total number of items recorded.
-Average Item Rating: The average customer rating across all items.
-
+  Sales (in Millions): The overall revenue generated.
+  Average Sales: The average value per transaction.
+  Total Item Count: The total number of items recorded.
+  Average Item Rating: The average customer rating across all items.
+  
 # ⚙️ How to Use
 
-Database Setup:  Create a database (e.g., Blinkit).
-Data Import: Import your dataset into a table named grocery_data.
-Execute Script: Run this SQL script in your preferred SQL client (e.g., MySQL Workbench, DBeaver, command line) connected to your database.
+  Database Setup:  Create a database (e.g., Blinkit).
+  Data Import: Import your dataset into a table named grocery_data.
+  Execute Script: Run this SQL script in your preferred SQL client (e.g., MySQL Workbench, DBeaver, command line) connected to your database.
